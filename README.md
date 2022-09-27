@@ -16,11 +16,11 @@ For each snowball you must calculate its snowballValue by the following formula:
 
 In the end, you must print the highest calculated snowballValue.
 
-Input
+## Input:
 
     On the first input line, you will receive N – the number of snowballs.
     On the next N * 3 input lines you will be receiving data about snowballs.
 
-Output
+## Output:
 
     As output, you must print the highest calculated snowballValue, by the formula, specified above. 
